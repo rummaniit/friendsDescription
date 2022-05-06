@@ -1,0 +1,10 @@
+.sideImg {
+    width: 150px;
+    margin: 15px;
+}
+
+#cart-side {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

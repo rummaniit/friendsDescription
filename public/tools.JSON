@@ -1,0 +1,44 @@
+[
+    {
+        "name": "rumman",
+        "jod": "software firm",
+        "location": "dhaka",
+        "salary": 300000,
+        "image": "https://pbs.twimg.com/profile_images/1239214593596993537/-2M1b34d_400x400.jpg"
+    },
+    {
+        "name": "salman",
+        "jod": "Maltination firm",
+        "location": "dhaka",
+        "salary": 500000,
+        "image": "https://pbs.twimg.com/profile_images/1239214593596993537/-2M1b34d_400x400.jpg"
+    },
+    {
+        "name": "aminul",
+        "jod": "Admin cader",
+        "location": "Jessore",
+        "salary": 30000,
+        "image": "https://pbs.twimg.com/profile_images/1239214593596993537/-2M1b34d_400x400.jpg"
+    },
+    {
+        "name": "shaon",
+        "jod": "Associate prof",
+        "location": "khulna",
+        "salary": 90000,
+        "image": "https://pbs.twimg.com/profile_images/1239214593596993537/-2M1b34d_400x400.jpg"
+    },
+    {
+        "name": "Binoy",
+        "jod": "Asistant Manager",
+        "location": "barishal",
+        "salary": 50000,
+        "image": "https://pbs.twimg.com/profile_images/1239214593596993537/-2M1b34d_400x400.jpg"
+    },
+    {
+        "name": "sabbir",
+        "jod": "Researcher",
+        "location": "Australia",
+        "salary": 3000000,
+        "image": "https://pbs.twimg.com/profile_images/1239214593596993537/-2M1b34d_400x400.jpg"
+    }
+]
